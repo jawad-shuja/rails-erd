@@ -68,7 +68,7 @@ module RailsERD
 
       # Default node attributes.
       NODE_ATTRIBUTES = {
-        shape:    "Mrecord",
+        shape:    "Record",
         fontsize: 10,
         fontname: FONTS[:normal],
         margin:   "0.07,0.05",
